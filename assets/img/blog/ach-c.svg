@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Ilustrasi predikat pujian">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f2124"/><stop offset="1" stop-color="#2b2d31"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <g stroke="#f0bb62" stroke-width="3" fill="none" opacity="0.65">
+    <circle cx="400" cy="215" r="72"/>
+    <path d="M352 275 L340 350 L400 318 L460 350 L448 275"/>
+    <path d="M400 178 l12 26 28 4 -20 20 5 28 -25 -14 -25 14 5 -28 -20 -20 28 -4z" fill="#f0bb62" fill-opacity="0.18"/>
+  </g>
+</svg>

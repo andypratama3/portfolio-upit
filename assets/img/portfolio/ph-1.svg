@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Ilustrasi proyek">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#33363b"/><stop offset="1" stop-color="#1f2124"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <g stroke="#f0bb62" stroke-width="3" fill="none" opacity="0.65">
+    <rect x="290" y="190" width="220" height="150" rx="10"/>
+    <line x1="290" y1="380" x2="510" y2="380"/>
+    <circle cx="400" cy="265" r="42"/>
+    <circle cx="400" cy="265" r="70" opacity="0.4"/>
+  </g>
+</svg>
